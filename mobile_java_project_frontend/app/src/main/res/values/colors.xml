@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4285F4</color>
+    <color name="primary_variant">#1A73E8</color>
+    <color name="secondary">#34A853</color>
+    <color name="secondary_variant">#188038</color>
+    <color name="tertiary">#FBBC05</color>
+    <color name="error">#EA4335</color>
+    
+    <color name="background_light">#FFFFFF</color>
+    <color name="surface_light">#F8F9FA</color>
+    <color name="on_primary_light">#FFFFFF</color>
+    <color name="on_secondary_light">#FFFFFF</color>
+    <color name="on_background_light">#202124</color>
+    <color name="on_surface_light">#202124</color>
+    
+    <color name="background_dark">#202124</color>
+    <color name="surface_dark">#303134</color>
+    <color name="on_primary_dark">#FFFFFF</color>
+    <color name="on_secondary_dark">#FFFFFF</color>
+    <color name="on_background_dark">#E8EAED</color>
+    <color name="on_surface_dark">#E8EAED</color>
+    
+    <!-- Chart colors -->
+    <color name="accelerometer_x">#EA4335</color>
+    <color name="accelerometer_y">#34A853</color>
+    <color name="accelerometer_z">#4285F4</color>
+    <color name="gyroscope_x">#FBBC05</color>
+    <color name="gyroscope_y">#DB4437</color>
+    <color name="gyroscope_z">#0F9D58</color>
+    
+    <!-- Status colors -->
+    <color name="recording_active">#EA4335</color>
+    <color name="recording_inactive">#34A853</color>
+</resources>
