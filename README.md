@@ -1,6 +1,10 @@
 # Parkinson's Disease Detection System
 
-A comprehensive mobile and web-based system for detecting Parkinson's Disease through movement analysis using machine learning.
+A comprehensive mobile application for detecting Parkinson's Disease through movement analysis using machine learning.
+
+
+https://github.com/user-attachments/assets/d88ca126-7c7d-4e47-83f7-effe03562444
+
 
 ## Overview
 
